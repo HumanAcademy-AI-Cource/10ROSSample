@@ -1,3 +1,5 @@
+このプログラムはヒューマンアカデミー株式会社のAI入門講座で使用するプログラムです。
+
 # OpenCV Face Detection
 opencv_appsとuvc_cameraを組み合わせて顔認識するデモパッケージ
 
